@@ -1,0 +1,2 @@
+# majormud
+All things MajorMud
